@@ -1,0 +1,49 @@
+html, body, md-content{
+	background-color: #B6B9BD !important;
+	color: #2F343C !important;
+	font-family: courier !important;
+    font-weight: lighter !important;
+}
+
+md-toolbar{
+	background-color: #4D0000 !important;
+}
+
+.smallButt{
+	min-width: 30px !important;
+	max-width: 30px !important;
+}
+
+.glyphicon-picture{
+	font-size: 30px !important;
+}
+
+.glyphicon-ok{
+	font-size: 30px !important;
+	color: #07D207 !important;
+}
+
+md-toast{
+	font-size: 20px;
+	position: fixed !important;
+	background-color: #06022E !important;
+	color: #B6B9BD !important;
+}
+
+h1{
+  text-align: center !important;
+  font-size: 70px;
+  font-weight: lighter;
+}
+
+.toolbarStyle{
+	margin-left: 20px !important;
+}
+
+#logoStyle{
+	font-size: 20px !important;
+}
+
+md-card{
+	background-color: #918692 !important;
+}
